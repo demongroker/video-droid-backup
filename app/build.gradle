@@ -140,7 +140,7 @@ dependencies {
     // Stage 4: fingerprint / device-credential prompt for the Library lock.
     implementation 'androidx.biometric:biometric:1.1.0'
     implementation 'com.google.android.material:material:1.12.0'
-    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'androidx.constraintlayout:constraintlayout:2.2.2'
 
     // Jetpack Compose BOM - compatible with Kotlin 1.9.24
     def composeBom = platform('androidx.compose:compose-bom:2024.12.01')
